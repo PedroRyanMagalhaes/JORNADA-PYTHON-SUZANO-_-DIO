@@ -39,5 +39,7 @@ preco = 10
 nome = "guilherme"      
 print("O preco do produto e " + str(preco) + " e o nome do vendedor e " + nome)
 
+print (100//2)
+
 
 
